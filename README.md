@@ -17,9 +17,11 @@
 
   • Crypto Coins Exchange Development
 
-  • Smart-Contracts (Solidity, Truffle framework)
+  • Smart-Contracts (Solidity, Solana, Rust, Truffle framework)
 
   • Token development based on Ethereum and Binance (ERC20, ERC721, ERC 1155, BEP20, BEP721, BEP1155)
+  
+  • DApps and DEX Development
 
   • Web Development with MERN, MEAN, MEVN
    
