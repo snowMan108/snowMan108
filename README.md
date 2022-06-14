@@ -35,12 +35,12 @@
 
 <p align="center">
   <a>
-    <img height="120" width="150" src="https://github.com/legendarydev007/legendarydev007/blob/main/PNG/left.png">
+    <img height="120" width="150" src="https://github.com/snowMan108/snowMan108/blob/main/left.png">
     <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=snowMan108&theme=dark&hide_border=true"/>
-    <img height="120" width="150" src="https://github.com/legendarydev007/legendarydev007/blob/main/PNG/right.png">
+    <img height="120" width="150" src="https://github.com/snowMan108/snowMan108/blob/main/right.png">
   </a>
 </p>
 
 <br>
 
-![footer](https://github.com/legendarydev007/legendarydev007/blob/main/visionnaire-linguagens-de-programacao_14045_img.jpg)
+![footer](https://github.com/snowMan108/snowMan108/blob/main/footer.jpg)
